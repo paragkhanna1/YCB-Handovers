@@ -10,6 +10,8 @@ The careful handovers had the cup or the pitcher with water filled up to brim.
 
 Each of these folders has 2 folders: 'forward_handovers' and 'reverse_handovers'. The 'handovers' folder contains all recorded and segmented handovers as separate folders when participant 1 acts as giver and passed the objects to participant 2, who acted as taker. The 'handovers_reverse' contains all handovers when participant 2 acted as giver and participant 1 as taker. This is done for purely analytical purposes.
 
+Pair 4 is a left handed-right handed pair with forward handovers from left handed to right handed participants. All other pairs are right-right handed participants.
+
 The labels for what a handover represents in a each 'forward_handovers' and 'reverse_handovers' is given in the label_handovers.csv file in that folder.
 
 Here's a weight (in grams) mapping for these labels: 
